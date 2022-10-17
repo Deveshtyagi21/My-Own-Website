@@ -1,0 +1,121 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  font-size: 200%;
+}
+
+h1 {
+  font-size: 5.625rem;
+  line-height:1;
+  font-family: 'Sacramento', cursive;
+  margin: 50px auto 0 auto;
+  color: #937DC2;
+
+
+}
+h2{
+  font-family: "Lucida Grande",sans-serif;
+  font-size: 2.5rem;
+  color: #937DC2;
+  font-weight: normal;
+}
+.top-container {
+  background-color:#FFE6F7;
+  position: relative;
+  padding-top: 100px;
+
+}
+.middle-container {
+  margin: 100px 0;
+}
+.bottom-container {
+  background-color: #937DC2;
+  padding: 50px 0 20px;
+}
+.pro {
+  text-decoration: underline;
+}
+.moon-img {
+  position: absolute;
+  width: 10%;
+  top: 20px;
+  left: 40px;
+}
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top: 40px;
+}
+.bottom-cloud{
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+}
+.python-img{
+  width:25%;
+  float: left;
+  margin-right: 25px;
+}
+.sql-img{
+  width: 25%;
+  float: right;
+  margin-right: 25px;
+}
+.myimage{
+  width: 120px;
+  height: 120px;
+}
+.skill-row{
+  width: 50%;
+  margin:100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+p {
+  font-family: 'Merriweather', serif;
+  font-size: 1.5rem;
+}
+h3{
+  line-height: 1;
+  color: #937DC2;
+  font-weight: normal;
+}
+hr{
+  border: dotted #C689C6 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+.contact-message{
+  width:40%
+  margin:40px auto 60px;
+  font-size: 1.8rem;
+}
+
+.btn {
+  background: #937DC2;
+  background-image: -webkit-linear-gradient(top, #937DC2, #937DC2);
+  background-image: -moz-linear-gradient(top, #937DC2, #937DC2);
+  background-image: -ms-linear-gradient(top, #937DC2, #937DC2);
+  background-image: -o-linear-gradient(top, #937DC2, #937DC2);
+  background-image: linear-gradient(to bottom, #937DC2, #937DC2);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: 'Merriweather', serif;
+  color: #FFE6F7;
+  font-size: 23px;
+  padding: 13px 20px 12px 20px;
+  border: solid #937DC2 1px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #785fad;
+  text-decoration: none;
+}
+a:hover {
+  color:#FFE6F7;
+}
+.
